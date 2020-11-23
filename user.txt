@@ -1,0 +1,3 @@
+"id"	"username"	"password"	"nickname"	"head_img"
+"1"	"slw"	"e00907428df6d016772dfcdf0d881172"	"slw"	"http://139.159.248.60:3000\uploads\20201013\1602576157764.jpg"
+"2"	"slj"	"54e5a8ebb77ed591a3b648418627f194"	"slj"	
